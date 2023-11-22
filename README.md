@@ -1,8 +1,8 @@
-### Hi there 👋
+
 <img src="https://user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png" width="100%" />
 <h1 align="center">Hi 👋, I'm Sangeeth</h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=18&center=true&vCenter=true&width=420&lines=A+First+Btech+Student)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=18&center=true&vCenter=true&width=420&lines=A+First+year+Btech+Student)](https://git.io/typing-svg)
 
 - 🌱 I’m currently learning **Web Development**
 
