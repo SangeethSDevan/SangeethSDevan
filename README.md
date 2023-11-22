@@ -1,7 +1,9 @@
 ### Hi there 👋
 <img src="https://user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png" width="100%" />
 <h1 align="center">Hi 👋, I'm Sangeeth</h1>
-<h3 align="center">First Year Computer Science Engineering Student in MITS</h3>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=18&center=true&vCenter=true&width=420&lines=A+First+Btech+Student)](https://git.io/typing-svg)
+
 - 🌱 I’m currently learning **Web Development**
 
 - 📫 How to reach me **sangeethsdevan@gmail.com**
@@ -15,6 +17,6 @@
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/javascript-original.svg" alt="Javascript" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Mobile/dartlang-icon.svg" alt="Dart" width="40" height="40"/>
 </p>
-
+<img src="https://camo.githubusercontent.com/14a8f991cf62d5ae4d458b688752d171303b1cabad59c5b9c17e13e2e01d3846/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6a75756139693263326641304149703269712f67697068792e676966" width= 200px align="right">
 <h3 align="left">Stars</h3>
-<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=s4xthhhhh&theme=highcontrast" alt="s4xthhhhh" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=S4xthhhhh&show_icons=true&theme=dark&locale=en&layout=compact" alt="S4xthhhhh" align=center/></p>
