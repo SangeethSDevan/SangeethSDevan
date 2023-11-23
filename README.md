@@ -3,6 +3,7 @@
 <h1 align="center">Hi 👋, I'm Sangeeth</h1>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=18&center=true&vCenter=true&width=420&lines=A+First+year+Btech+Student)](https://git.io/typing-svg)
+[![](https://visitcount.itsvg.in/api?id=S4xthhhhh&label=Profile%20Views&color=1&icon=2&pretty=true)](https://visitcount.itsvg.in)
 
 - 🌱 I’m currently learning **Web Development**
 
