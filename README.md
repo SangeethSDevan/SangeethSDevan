@@ -16,8 +16,9 @@
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/html5-original-wordmark.svg" alt="HTML" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/css3-original-wordmark.svg" alt="Css" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/javascript-original.svg" alt="Javascript" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Mobile/dartlang-icon.svg" alt="Dart" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
 </p>
 <img src="https://camo.githubusercontent.com/14a8f991cf62d5ae4d458b688752d171303b1cabad59c5b9c17e13e2e01d3846/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6a75756139693263326641304149703269712f67697068792e676966" width= 200px align="right">
+<img src="https://github-readme-stats.vercel.app/api?username=S4xthhhhh&hide=stars&show_icons=true&theme=dracula&line_height=32"/>
 <h3 align="left">Stars</h3>
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=S4xthhhhh&show_icons=true&theme=dark&locale=en&layout=compact" alt="S4xthhhhh" align=center/></p>
