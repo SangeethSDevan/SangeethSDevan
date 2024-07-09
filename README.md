@@ -1,5 +1,5 @@
-<h1>Hi 👋, I'm First year BTech Student</h1>
-<p>A passionate Web Developer</p>
+<h1>Hi 👋, I'm Sangeeth</h1>
+<h2>A passionate Web Developer and a first year BTech Student</h2>
 
 ## 🌐Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/s4xthhhhh) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sangeeth-s-devan-630b1a28a) 
