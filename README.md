@@ -21,8 +21,6 @@
       "year": "2027"
     }
   ],
-    }
-  ]
 }
 ```
 <div align="center">
