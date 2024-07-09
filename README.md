@@ -5,7 +5,8 @@
 ```yaml
 {
   "name": "Sangeeth S Devan",
-  "title": "A Web Developer",
+  "title": "A Computer Science and Engineering Student",
+  "intrestedfield": "Web Development",
   "contact": {
     "email": "sangeethsdeva@gmail.com",
     "linkedin": "https://www.linkedin.com/in/sangeeth-s-devan-630b1a28a",
@@ -17,7 +18,7 @@
   "education": [
     {
       "institution": "Muthoot Institute of Technology and Science",
-      "degree": "Btech",
+      "degree": "BTech",
       "year": "2027"
     }
   ],
