@@ -1,5 +1,5 @@
 <div align="center">
-<p>Hi there 🕸️! Iam Sangeeth S Devan</p>
+<p>Hi there 🕸️! Iam <b>Sangeeth S Devan</b></p>
 </div>
 
 ```yaml
